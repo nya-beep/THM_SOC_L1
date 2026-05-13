@@ -1,4 +1,4 @@
-#Phishing Simulator
+# Phishing Simulator
 
 Today I completed my first hands on activity on TryHackMe. The title of the room was "Introduction to Phishing".
 The room simulated a mock SIEM dashboard with 5 incoming phishing alerts and my job was to detect and properly triage 
